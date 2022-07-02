@@ -1,0 +1,187 @@
+body {
+    margin: 0px;
+    background-color: white;
+}
+.main {
+    /* background-color: #FFC293; */
+    position: relative;
+    bottom: 400px;
+    /* margin-left: 32%; */
+    text-align: center;
+    margin: auto ;
+    font-family: Gotham, sans-serif;
+    
+    color: #F6F7Eb;
+
+}
+
+.intro {
+   
+}
+
+/* .main {
+    position: absolute;
+    
+} */
+.middle {
+    height: 200px;
+    width: 200px;
+    background-color: #0D4CC6;
+}
+
+.bottom {
+    height: 200px;
+    width: 200px;
+    background-color: #222C35;
+}
+
+h1 {
+    margin: 0px;
+    font-size: 6.33em;
+    color: #F6F7Eb;
+    font-family: gotham;
+    font-weight: 600;
+    /* color: #2E383D */
+}
+
+.sea {
+    /* position: relative; */
+    /* bottom: 50px; */
+    height: 100%;
+    width:  100%;
+
+}
+
+.image {
+    
+    
+    position: relative;
+    bottom: 150px;
+    padding: 2px;
+    
+
+}
+
+
+.menu {
+    background-color: #902E2E;
+    
+    margin: 2px;
+    height: 25px;
+    width: 1400px;
+    position: fixed;
+    top: 0px;
+}
+
+.middle-container {
+    text-align: center;
+    position: relative;
+    bottom: 275px;
+    font-family: Montserrat;
+    margin: 100px 0;
+
+}
+.profile {
+    
+    /* align-items: center;
+    align-content: center;
+    text-align: center; */
+    width: 40%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+    
+}
+.profilepic {
+    /* position: relative; */
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.skill-row {
+    /* position: relative;
+    bottom: 40px; */
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+p {
+    /* text-align: center; */
+    /* width: 600px;
+    height: 50px; */
+    /* margin-left: 460px; */
+    /* margin: auto; */
+    color: #902E2E;
+}
+h2 {
+    color: #134153;
+}
+h3 {
+    color: #134153;
+}
+.designe {
+    /* height: 150px;
+    width: 150px; */
+    width: 25%;
+    float: left;
+    margin-right: 10px;
+    /* padding: 20px; */
+
+}
+.winner {
+    width: 25%;
+    float: right;
+    margin-right: 10px;
+}
+
+.bottom-container {
+    background-color: #121212;
+    margin: none auto none;
+    color: white;
+    /* position: relative; */
+    /* bottom: 350px; */
+    height: 400px;
+    
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: none; 
+    
+
+}
+.footer-link {
+    text-align: center;
+    position: relative;
+    top: 150px;
+    /* color: #902E2E; */
+    color: #902E2E;
+    margin: 10px 20px 10px;
+    text-decoration: none;
+
+}
+a {
+    color: #902E2E;
+
+}
+a:hover {
+    color: #EAF6F6
+}
+.copyright {
+    position: relative;
+    top: 310px;
+    margin: none;
+    color: #EAF6F6
+
+}
+.btn {
+    color: white
+    
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 4px;
+    width: 5%;
+    border-color: #EAF6F6;  
+}
